@@ -30,7 +30,6 @@ public class AoC24Day10 {
         }
         answer = nines.size();
         answer2 = routes.size();
- //       System.out.println(routes);
         System.out.println("The answer to part 1 is " + answer);
         System.out.println("The answer to part 2 is " + answer2);
 
